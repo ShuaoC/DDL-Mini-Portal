@@ -1,0 +1,13 @@
+NAME,DOB,SSN,MA#,Insurance Type
+Felix Chen,12/28/1998,888-88-8888,It is what it is,Whatever
+Ganyu Lin,11/11/1981,123-09-0909,uwu,uwu
+Jiang Jun,11/18/2009,456-09-0809,uwu,uwu
+Tom Nook,01/01/0001,555-55-5555,$,$
+Zhong Li,03/12/1956,098-78-7452,uwu,uwu
+Trey Young,09/09/1999,890-78-5636,uwu,uwu
+Clare Wang,01/01/2000,809-54-1234,UWU,UWU
+Test Qiang,12/23/2008,,,
+Xiao Feng,01/01/2008,123-23-1092,uwu,uwu
+Xiao Hu,13/09/1908,123-76-1235,uwu,uwu
+test,test,test,test,test
+Bo Wang,12/13/1987,434-23-5434,uwu,uwu
